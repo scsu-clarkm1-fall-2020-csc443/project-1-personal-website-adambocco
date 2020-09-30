@@ -1,0 +1,82 @@
+# Site Plan - dms.com
+
+## Overview
+
+*dms.com* is a website for the business 'Diversified Manufacturing and Services' (DMS). The goal of this site is to showcase the company, detail the company's products and services, and provide methods of contacting the business. The site will be a professional platform to increase the amount of requests to the business for their specific products and services.
+
+This site will target prospective clients that are looking for an electronics manufacturer. Today it is expected that a legitimate business have a professional-looking website to inform the client and bridge their communication. Therefore, it is necessary that DMS provide an online presence to provide information about the business and facilitate client communication.
+
+The site will be primarily static and built from scratch, custom to the professional environment DMS wishes to project. The content will span several pages and cover a general description of the company, specific manufacturing and design services, and methods of contacting and requesting quotes. The website will focus on responsive design and have a fluid, professional look on all platforms.
+
+## Goals
+
+The primary goals of the site and corresponding objectives are given below.
+
+### Generate Prospective Client Interest
+
+* Increase business related inquiries via email, phone, or in-person. 
+* Target clients specific to services and products provided.
+* Target clients for manufacturing contracts rather than one-time services and repairs.
+* Maximize user *session duration* and *page views*.
+
+
+### Minimize false inquiries and merchant solicitation
+
+* Decrease rate of inquiries for services or products not provided by this business.
+* Increase the number of *page views* for pages describing specific products and services offered.
+* Decrease the amount of unwanted solicitations.
+
+## Target Users
+
+There are two user categories that are expected to make up the bulk of traffic to *dms.com*.
+
+### Kevin - Toothbrush Manufacturer Representative
+
+<img src="img/user-persona-kevin.jpg" width=200>
+
+Kevin is a representative from a company that makes toothbrushes and he is looking for a full-service electronics manufacturer to provide assembly, testing, and quality checking for an embedded device in a new brand of electronic toothbrush that his company is trying to develop.
+
+Kevin's company has a design from his engineers and is looking for a local manufacturer that can handle both through-hole and surface-mount soldering in-house. It would be great if he could find a company that is capable of full-service assembly and lands on *dms.com*. 
+
+Kevin works through the pages on a destop computer and easily finds that DMS provides all the services necessary to manufacturer the device and sends an emails DMS to request a quote on 400 units.
+
+### Jennifer - Inventor and Entrepreneur 
+
+<img src="img/user-persona-jennifer.jpg" width=200>
+
+Sarah is an entrepreneur with an idea for a new kid's toy but hasn't much experience with electronics design or the manufacturing process. She wants to find a business that is partnered with an electronics engineering company and can provide prototypes to test out her idea.
+
+Sarah would also like to be able to expand her business if the idea for the kid's toy turns out well, so she is looking for a company that can handle manufacturing and scale with potential demand.
+
+Sarah is often meeting with many of her own clients and usually visits websites on a smartphone. She lands on *dms.com* and is impressed with the fluid and professional mobile design of the website. She finds that DMS is partnered with an electronics engineering company and decides to give DMS a call.
+
+## Content
+
+### Home
+
+The home page will be the entry point of the site for most users. This will consist of a logo and a general description of the company.
+
+### About Us
+
+This page will detail the company's origin, partnerships, goals, and the commitment to the customer.
+
+### Services
+
+This page will consist of two sections: manufacturing services and design services. Each section will detail the specifics of what the company is capable of.
+
+### Request a Quote
+
+Detailed explanation on how to request a quote and a provided form.
+
+### Contact
+
+Contact information will always be visible independent of the page. General contact information and a contact form will also be provided on this page.
+
+## Similar Sites
+
+### kbcelectronics.com, edmva.com, osda.com
+
+
+<img style="vertical-align:top;" src="img/kbc.png" width=200>
+<img style="vertical-align:top;" src="img/edmva.png" width=200>
+<img style="vertical-align:top;" src="img/osda.png" width=200>
