@@ -15,16 +15,15 @@ The primary goals of the site and corresponding objectives are given below.
 ### Generate Prospective Client Interest
 
 * Increase business related inquiries via email, phone, or in-person. 
-* Target clients specific to services and products provided.
-* Target clients for manufacturing contracts rather than one-time services and repairs.
-* Maximize user *session duration* and *page views*.
+* Direct the user towards contacting DMS by maintaining visibility of that information.
+* Maximize user *session duration* and *page views* using Google Analytics.
 
 
-### Minimize false inquiries and merchant solicitation
+### Maximize larger orders
 
-* Decrease rate of inquiries for services or products not provided by this business.
-* Increase the number of *page views* for pages describing specific products and services offered.
-* Decrease the amount of unwanted solicitations.
+* Target clients specific to services and products provided by describing capabilites.
+* Maximize requests for contracts by emphasizing capabilies of large-scale production.
+* Increase the number of *page views* for pages describing specific products and services offered. 
 
 ## Target Users
 
@@ -38,7 +37,7 @@ Kevin is a representative from a company that makes toothbrushes and he is looki
 
 Kevin's company has a design from his engineers and is looking for a local manufacturer that can handle both through-hole and surface-mount soldering in-house. It would be great if he could find a company that is capable of full-service assembly and lands on *dms.com*. 
 
-Kevin works through the pages on a destop computer and easily finds that DMS provides all the services necessary to manufacturer the device and sends an emails DMS to request a quote on 400 units.
+Kevin works through the pages on a destop computer and easily finds that DMS provides all the services necessary to manufacturer the device and requests a quote on 400 units.
 
 ### Jennifer - Inventor and Entrepreneur 
 
@@ -74,9 +73,20 @@ Contact information will always be visible independent of the page. General cont
 
 ## Similar Sites
 
-### kbcelectronics.com, edmva.com, osda.com
+### eei-hvac.com
 
+* Environmental Engineering Inc. has an excellent responsive design that reflects the goals of this site in the way that content is offset on larger sreens and stacked on smaller screens. The navbar is simple and provides a logo which *dms.com* will have. It also has a map pinning their location on the home page.
 
-<img style="vertical-align:top;" src="img/kbc.png" width=200>
-<img style="vertical-align:top;" src="img/edmva.png" width=200>
-<img style="vertical-align:top;" src="img/osda.png" width=200>
+<a href="https://www.eei-hvac.com/"><img style="vertical-align:top;" src="img/eei.png" width=200></a>
+
+### edmva.com
+
+* EDMVA has an excellent landing page with modern-styled images describing their services and a striking video background near the contact section. The home page for *dms.com* will be similar to this, but on smaller devices, the page will be less cluttered. EDMVA does not scale the images describing their services on smaller screens, so it makes for a tedious section to scroll through, although the same section looks great on larger screens. 
+
+<a href="https://www.edmva.com"><img style="vertical-align:top;" src="img/edmva.png" width=200></a>
+
+### osda.com
+
+* OSDA's website is also responsive but has a simple, uncluttered layout that more aggresively directs the user towards submitting an order. The site also looks great at all screen sizes, even extra large in which the red background logo has room to fill the margins. *dms.com* will have similar responsive navigation design in which on larger screens, there will be a top-fixed header, and on smaller screens a navigation menu will be toggled.
+
+<a href="https://www.osda.com"><img style="vertical-align:top;" src="img/osda.png" width=200></a>
