@@ -6,7 +6,9 @@
 
 This site will target prospective clients that are looking for an electronics manufacturer. Today it is expected that a legitimate business have a professional-looking website to inform the client and bridge their communication. Therefore, it is necessary that DMS provide an online presence to provide information about the business and facilitate client communication.
 
-The site will be primarily static and built from scratch, custom to the professional environment DMS wishes to project. The content will span several pages and cover a general description of the company, specific manufacturing and design services, and methods of contacting and requesting quotes. The website will focus on responsive design and have a fluid, professional look on all platforms.
+The site will be primarily static and built from scratch, custom to the professional environment DMS wishes to project. The content will span several pages and cover a general description of the company, specific manufacturing and design services, and methods of contacting and requesting quotes. The website will focus on responsive design and have a fluid, professional look on all platforms. The site will complement the logo and images for the company which will consist of pc boards and industrial equipment by providing cool green tones and light and dark pastel-like brown colors. Some such colors are #effcef, #ccedd2, #94d3ac, #655c56, and #eeecda 
+
+<img src="img/colors.png" style="vertical-align:top;">
 
 ## Goals
 
@@ -50,6 +52,7 @@ Sarah would also like to be able to expand her business if the idea for the kid'
 Sarah is often meeting with many of her own clients and usually visits websites on a smartphone. She lands on *dms.com* and is impressed with the fluid and professional mobile design of the website. She finds that DMS is partnered with an electronics engineering company and decides to give DMS a call.
 
 ## Content
+
 
 ### Home
 
