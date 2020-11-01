@@ -1,0 +1,51 @@
+// Override Bootstrap variables here
+$body-bg: #effcef;
+$btn-padding-y: 50px;
+$border-color: black;
+
+
+// Project colors : #effcef, #ccedd2, #94d3ac, #655c56, and #eeecda 
+$theme-colors:
+  (
+    "primary": #94d3ac,
+    "secondary": #a8cc93,
+    "info": rgb(85, 100, 48),
+    "dark": rgb(212, 230, 191),
+    "light": #ccedd2,
+    "checker": rgb(136, 185, 107),
+    
+  );
+
+// Include Bootstrap SASS here. This will allow our overrides to take effect.
+@import '~bootstrap/scss/bootstrap';
+
+// Your regular styles here
+.my-heading {
+    background: theme-color("secondary");
+    border: 3px solid theme-color('warning');
+}
+
+html,
+body {
+    font-family: 'Rubik', sans-serif;
+
+}
+.caption {
+    position: absolute;
+    top: 45%;
+    color: white;
+}
+#logo {
+  position: relative;
+  bottom:10px;
+  color: #463618;
+  font-size: 0.8v;
+  text-align:center;
+  background: radial-gradient(#90e2af, #8fa552);
+  border-top: solid 4px black;
+  border-bottom: solid 4px black;
+
+}
+#commitment {
+  background: radial-gradient(rgb(214, 236, 202), rgb(204, 221, 164), rgb(198, 218, 144));
+} 
